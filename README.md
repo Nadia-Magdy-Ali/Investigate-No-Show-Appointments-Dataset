@@ -4,5 +4,5 @@ In our investigation we will answer the following questions in order to determin
 
 - Does age affect whether the patient attend or not?
 - Is no-shows more common for specific gender?
-- Is no-shows more common in a certain disease?
-- Does sending sms messages results in fewer No-shows?
+- Is no-shows more common in patients with a certain disease?
+- Does sending sms messages result in fewer No-shows?
